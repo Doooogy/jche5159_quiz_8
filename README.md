@@ -18,6 +18,11 @@ Resouce: https://www.youtube.com/watch?v=QOcoO3KcPos
     To add a sense of surprise to the outcome, it can create a state of vigorous growth that help me convey my concept of life.
   
 
+
+
+
+
+
 **Part 2-Coding Technique Exploration**
 
 - Coding Technique:  
