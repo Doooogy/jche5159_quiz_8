@@ -22,7 +22,7 @@ Resouce: https://www.youtube.com/watch?v=QOcoO3KcPos
 
 - Coding Technique:  
   Fractal Trees-Space Colonization
-- Comments:  
+- Comment:  
   By generating hierarchical structures, new branches with self-similarity can be formed, creating random images resembling "tree" shapes.
 - Sketch:
 ![Image 3](readmeImages/Image%203.jpg)
@@ -30,3 +30,36 @@ Resouce: https://www.youtube.com/watch?v=QOcoO3KcPos
 ![Image 4](readmeImages/Image%204.jpg)
 *Outcome*
 - Code Link:https://github.com/CodingTrain/Coding-Challenges/tree/main/017_SpaceColonizer/Processing
+  - branch.js
+```
+  function Branch(parent, pos, dir) {
+  this.pos = pos;
+  this.parent = parent;
+  this.dir = dir;
+  this.origDir = this.dir.copy();
+  this.count = 0;
+  this.len = 5;
+
+  this.reset = function() {
+    this.dir = this.origDir.copy();
+    this.count = 0;
+  }
+
+
+  this.next = function() {
+    var nextDir = p5.Vector.mult(this.dir, this.len);
+    var nextPos = p5.Vector.add(this.pos, nextDir);
+    var nextBranch = new Branch(this, nextPos, this.dir.copy());
+    return nextBranch;
+  }
+
+  this.show = function() {
+    if (parent != null) {
+      stroke(255);
+      strokeWeight(4);
+      line(this.pos.x, this.pos.y, this.parent.pos.x, this.parent.pos.y);
+    }
+
+  }
+}
+```
