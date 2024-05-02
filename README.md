@@ -1,4 +1,8 @@
 # jche5159_quiz_8
-My week 8 quiz
 
-**Part One-Imaging Technique Inspiration**
+**Part 1-Imaging Technique Inspiration**
+
+- Inspring images:
+ ![Image 1](readmeImages/Mandelbrot%20Set_1.jpg)
+- Thoughts：
+  
