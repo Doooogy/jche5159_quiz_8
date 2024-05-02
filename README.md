@@ -9,10 +9,10 @@
 *Screenshot 2 created by DawraMath*
 
 - Thoughts：
-  - Technique: 
+  - Technique:  
     Based on the Mandelbrot principle, generating self-similar subsets.
   - Reason for selection:  
     A simulation of natural ecology, visually striking, full of random beauty and vitality.
-  - How can it be beneficial:
+  - How can it be beneficial:  
     To add a sense of surprise to the outcome, it can create a state of vigorous growth that help me convey my concept of life.
   
