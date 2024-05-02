@@ -1,4 +1,4 @@
 # jche5159_quiz_8
 My week 8 quiz
 
-**Love for class**
+**Part One-Imaging Technique Inspiration————————————**
