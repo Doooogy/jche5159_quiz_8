@@ -2,8 +2,8 @@
 
 **Part 1-Imaging Technique Inspiration**
 
-- Inspring images:
-#Resouce: https://www.youtube.com/watch?v=QOcoO3KcPos
+- Inspring images:  
+Resouce: https://www.youtube.com/watch?v=QOcoO3KcPos
 ![Image 1](readmeImages/Mandelbrot%20Set_1.jpg)
 *Screenshot 1 created by DawraMath*
 ![Image 2](readmeImages/Mandelbrot%20set_2.jpg)
