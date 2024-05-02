@@ -23,7 +23,7 @@ Resouce: https://www.youtube.com/watch?v=QOcoO3KcPos
 - Coding Technique:  
   Fractal Trees-Space Colonization
 - Comment:  
-  By generating hierarchical structures, new branches with self-similarity can be formed, creating random images resembling "tree" shapes.
+  By generating hierarchical structures, new branches with self-similarity can be formed, creating random images resembling "tree" shapes. When transferring "branch" to other elements, it should create iterations accordingly.
 - Sketch:
 ![Image 3](readmeImages/Image%203.jpg)
 *Process*
