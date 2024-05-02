@@ -25,4 +25,5 @@ Resouce: https://www.youtube.com/watch?v=QOcoO3KcPos
 - Comments:  
   By generating hierarchical structures, new branches with self-similarity can be formed, creating random images resembling "tree" shapes.
 - Sketch:
-  
+![Image 3](readmeImages/Image%203.jpg)
+![Image 4](readmeImages/Image%204.jpg)
