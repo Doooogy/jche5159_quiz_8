@@ -26,4 +26,7 @@ Resouce: https://www.youtube.com/watch?v=QOcoO3KcPos
   By generating hierarchical structures, new branches with self-similarity can be formed, creating random images resembling "tree" shapes.
 - Sketch:
 ![Image 3](readmeImages/Image%203.jpg)
+*Process*
 ![Image 4](readmeImages/Image%204.jpg)
+*Outcome*
+- Code Link:https://github.com/CodingTrain/Coding-Challenges/tree/main/017_SpaceColonizer/Processing
